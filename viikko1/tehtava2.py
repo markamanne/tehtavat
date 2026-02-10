@@ -8,4 +8,5 @@ sade = float(sade_str)
 pinta_ala = math.pi * (sade ** 2)
 
 # Tulostetaan vastaus
-print("Ympyrän pinta-ala on: " + str(pinta_ala))
+print("Ympyrän pinta-ala on: "
+      + str(pinta_ala))
