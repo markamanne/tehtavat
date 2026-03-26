@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2df9851-50f6-477a-b044-51caef26c7bd" name="Changes" comment="moduuli 6">
+      <change afterPath="$PROJECT_DIR$/kertaustehtävät 2/tehtava 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kertaustehtävät 2/tehtava 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kertaustehtävät 2/tehtava 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kertaustehtävät 2/tehtava 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kertaustehtävät 2/tehtava 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kertaustehtävät 2/tehtava 6.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;markamanne&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/markamanne/tehtavat.git&quot;,
+    &quot;accountId&quot;: &quot;88f91568-4537-427a-838c-4d0b44c866c7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="39CdduqRk3b9LGNQyXEFbqg2ZfP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.tehtava 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 4.1 py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 4.2 py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 4.3 py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 4.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 4.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 5.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 5.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 6.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 6.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 6.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 6.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava 6.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava3.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tehtava6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aleksimanssila/PycharmProjects/tehtavat/kertaustehtävät&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kertaustehtävät" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.venv" />
+      <recent name="$PROJECT_DIR$/viikko 3" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2df9851-50f6-477a-b044-51caef26c7bd" name="Changes" comment="" />
+      <created>1770204076091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770204076091</updated>
+      <workItem from="1770204077099" duration="357000" />
+      <workItem from="1770204451467" duration="10095000" />
+      <workItem from="1770722660218" duration="10043000" />
+      <workItem from="1770808549694" duration="9966000" />
+      <workItem from="1772017790723" duration="13125000" />
+      <workItem from="1772622542365" duration="6502000" />
+      <workItem from="1773756676893" duration="13895000" />
+      <workItem from="1773941945480" duration="4980000" />
+      <workItem from="1774467141082" duration="2840000" />
+      <workItem from="1774509103105" duration="2915000" />
+    </task>
+    <task id="LOCAL−00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1770204524363</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1770204524363</updated>
+    </task>
+    <task id="LOCAL−00002" summary="tehtava 1">
+      <option name="closed" value="true" />
+      <created>1770205697813</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1770205697814</updated>
+    </task>
+    <task id="LOCAL−00003" summary="tehtava 2">
+      <option name="closed" value="true" />
+      <created>1770207105026</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1770207105026</updated>
+    </task>
+    <task id="LOCAL−00004" summary="tehtava 2">
+      <option name="closed" value="true" />
+      <created>1770732846754</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1770732846754</updated>
+    </task>
+    <task id="LOCAL−00005" summary="tehtava 2">
+      <option name="closed" value="true" />
+      <created>1770765307011</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1770765307011</updated>
+    </task>
+    <task id="LOCAL−00006" summary="tehtava 2">
+      <option name="closed" value="true" />
+      <created>1770821931076</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1770821931076</updated>
+    </task>
+    <task id="LOCAL−00007" summary="tehtava 2">
+      <option name="closed" value="true" />
+      <created>1770822210355</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1770822210355</updated>
+    </task>
+    <task id="LOCAL−00008" summary="tehtava 2">
+      <option name="closed" value="true" />
+      <created>1772549959643</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1772549959643</updated>
+    </task>
+    <task id="LOCAL−00009" summary="tehtava 2">
+      <option name="closed" value="true" />
+      <created>1772628457303</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1772628457303</updated>
+    </task>
+    <task id="LOCAL−00010" summary="tehtava 2">
+      <option name="closed" value="true" />
+      <created>1773869197531</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1773869197531</updated>
+    </task>
+    <task id="LOCAL−00011" summary="moduuli 6">
+      <option name="closed" value="true" />
+      <created>1774470210406</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1774470210406</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="tehtava 1" />
+    <MESSAGE value="tehtava 2" />
+    <MESSAGE value="moduuli 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="moduuli 6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/moduuli 04/tehtava 4.3 py.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/moduuli 06/tehtava 6.2.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_5_3.coverage" NAME="tehtava 5.3 Coverage Results" MODIFIED="1773868085807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 05" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_4_5.coverage" NAME="tehtava 4.5 Coverage Results" MODIFIED="1772549531530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 04" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_4_1_py.coverage" NAME="tehtava 4.1 py Coverage Results" MODIFIED="1772019973333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 04" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_6_1.coverage" NAME="tehtava 6.1 Coverage Results" MODIFIED="1773945704286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 06" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_3.coverage" NAME="tehtava 3 Coverage Results" MODIFIED="1774511707293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaustehtävät 2" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava3_2.coverage" NAME="tehtava3.2 Coverage Results" MODIFIED="1770812753104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko2" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava1.coverage" NAME="tehtava1 Coverage Results" MODIFIED="1770811157590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko2" />
+    <SUITE FILE_PATH="coverage/tehtavat$testi.coverage" NAME="testi Coverage Results" MODIFIED="1770808440906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko1" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_6_3.coverage" NAME="tehtava 6.3 Coverage Results" MODIFIED="1774469259658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 06" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_6_6.coverage" NAME="tehtava 6.6 Coverage Results" MODIFIED="1774469982681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 06" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_1.coverage" NAME="tehtava 1 Coverage Results" MODIFIED="1774510388412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaustehtävät 2" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava6.coverage" NAME="tehtava6 Coverage Results" MODIFIED="1770765171495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko1" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_4_4.coverage" NAME="tehtava 4.4 Coverage Results" MODIFIED="1772548960364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 04" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava3.coverage" NAME="tehtava3 Coverage Results" MODIFIED="1770726762118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko1" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_5_2.coverage" NAME="tehtava 5.2 Coverage Results" MODIFIED="1773867083547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 05" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava3_3.coverage" NAME="tehtava3.3 Coverage Results" MODIFIED="1770815279434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko2" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_4.coverage" NAME="tehtava 4 Coverage Results" MODIFIED="1774511961507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaustehtävät 2" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava5.coverage" NAME="tehtava5 Coverage Results" MODIFIED="1770732053539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko1" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_3_3.coverage" NAME="tehtava 3.3 Coverage Results" MODIFIED="1770816326562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko2" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava3_4.coverage" NAME="tehtava3.4 Coverage Results" MODIFIED="1770821857830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko2" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava2.coverage" NAME="tehtava2 Coverage Results" MODIFIED="1770732939638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko1" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_5_4.coverage" NAME="tehtava 5.4 Coverage Results" MODIFIED="1773869029848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 05" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_6_2.coverage" NAME="tehtava 6.2 Coverage Results" MODIFIED="1774468542607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 06" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_6_5.coverage" NAME="tehtava 6.5 Coverage Results" MODIFIED="1774469795301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 06" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_2.coverage" NAME="tehtava 2 Coverage Results" MODIFIED="1774511530874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaustehtävät 2" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava4.coverage" NAME="tehtava4 Coverage Results" MODIFIED="1770727256302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko1" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_5_1.coverage" NAME="tehtava 5.1 Coverage Results" MODIFIED="1773759437664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 05" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_5.coverage" NAME="tehtava 5 Coverage Results" MODIFIED="1774512047423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kertaustehtävät 2" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_6_4.coverage" NAME="tehtava 6.4 Coverage Results" MODIFIED="1774469608533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 06" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_4_2_py.coverage" NAME="tehtava 4.2 py Coverage Results" MODIFIED="1772022246343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 04" />
+    <SUITE FILE_PATH="coverage/tehtavat$tehtava_4_3_py.coverage" NAME="tehtava 4.3 py Coverage Results" MODIFIED="1772547876566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/moduuli 04" />
+  </component>
+</project>
